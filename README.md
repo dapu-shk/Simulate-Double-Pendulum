@@ -1,2 +1,5 @@
 # Simulate-Double-Pendulum
-授業課題で作成した二重振子のシミュレーションです。
+微小振動の二重振子のシミュレーションです。\n
+simulation_double_pendulum.m を実行すれば、ウィンドウで実際に振子が揺れている様子が確認できます。\n
+コードで出てくる添え字は、wikipediaのサイトを参考にしました。\n
+https://ja.wikipedia.org/wiki/%E4%BA%8C%E9%87%8D%E6%8C%AF%E3%82%8A%E5%AD%90
